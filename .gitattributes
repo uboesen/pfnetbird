@@ -1,0 +1,4 @@
+# The scripts are stored and checked out byte-exact: no EOL conversion
+# (core.autocrlf on Windows would otherwise turn LF into CRLF and change the SHA-256).
+pfnetbird.sh -text
+pfnetbird.ps1 -text
